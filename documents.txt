@@ -1,4 +1,4 @@
-to run this program we need som prerequisite
+to run this program we need some prerequisite
 
 Modules we need to install.
 1) pip install pandas.

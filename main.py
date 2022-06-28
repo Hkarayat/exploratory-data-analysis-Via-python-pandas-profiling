@@ -11,5 +11,7 @@ df = pd.read_csv("winemag-data-130k-v2.csv")
 # generating the report
 
 report = ProfileReport(df)
+
+# Exporting the report to file in HTML
 report.to_file(output_file = "report.html" )
 
