@@ -1,0 +1,9 @@
+to run this program we need som prerequisite
+
+Modules we need to install.
+1) pip install pandas.
+2) pip install pandas-profiling
+
+Importing the modules.
+1) import pandas as pd
+2) from pandas_profiling import ProfileReport
